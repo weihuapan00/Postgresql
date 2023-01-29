@@ -64,3 +64,12 @@ echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 vim student_info.sh
 psql --username=freecodecamp --dbname=students
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freeccodemap --dbname=students
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodemap --dbname=students
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=students
